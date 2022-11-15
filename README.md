@@ -7,7 +7,7 @@
 - Connect the local repository and the remote repository with `git remote`
 - Push code up to the remote repo with `git push`
 
-## Introduction
+## Introduction of
 
 You've seen how valuable _remotes_ are for _getting_ software. Now we can take a
 look at the other side of the transaction: how we synchronize our _local_
